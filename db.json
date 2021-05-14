@@ -7,7 +7,6 @@
   "codeValidation":"120987",
   "amount":"INR 7500"
  },
-
  {
  "claimNumber":"789012",
   "firstName":"Dinesh",
@@ -15,8 +14,7 @@
   "phoneNumber":"8971391277",
   "codeValidation":"051182",
   "amount":"INR 9000"
- }.
-
+ },
  {
   "claimNumber":"567890",
   "firstName":"Om",
